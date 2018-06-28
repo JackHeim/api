@@ -1,0 +1,32 @@
+
+
+body{
+    font-family: sans-serif;
+    background-color: darkgreen;
+    color: white;
+
+}
+.wrapper{
+    width:20%;
+    margin: 0 auto;
+    display: flex;
+}
+
+
+h1{
+    text-align: center;
+}
+h2{
+    text-align: center;
+    font-size: 14px;
+    line-height: 1.5;
+}
+p{
+    text-align: center;
+}
+
+
+
+
+
+
